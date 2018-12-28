@@ -1,5 +1,3 @@
-# 🦀🕸️ `wasm-pack-template`
-
 # rust-wasm-game-of-life
 An implementation of the _Conway's Game of Life_ in rust and Wasm. 
 Based on the [Rust 🦀 and WebAssembly 🕸](https://rustwasm.github.io/book/) book.
