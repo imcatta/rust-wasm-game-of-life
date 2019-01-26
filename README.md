@@ -21,17 +21,16 @@ According to [wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life#R
 
 ### Compile Wasm
 ```bash
-cd rust-wasm-game-of-life
 wasm-pack build
 ```
 
 ### Serving locally
 ```bash
+cd www
 npm run start
 ```
 
 ### Run tests
 ```bash
-cd rust-wasm-game-of-life
 wasm-pack test --firefox --headless # or --chrome, --safari, --node
 ```
